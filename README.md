@@ -12,4 +12,4 @@
        在moudle的build文件夹下添加项目依赖
        
        
-        implementation 'com.github.muyishuangfeng:CustomTitleBar:1.0.1'
+        implementation 'com.github.muyishuangfeng:CustomTitleBar:1.0.0'
